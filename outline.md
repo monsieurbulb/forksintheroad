@@ -182,7 +182,7 @@ However an open source code fork aimed at leveraging and expanding the good that
 It is an additive and adaptive model wherein the general principles of the main project – in this case the strength of the community voting, timestamping and funding systems – are built upon to enable an advanced and specialised set of use cases that can appeal to niche communities both within Decred’s existing culture and outside it. 
 Decred as mother 
 
-Most established crypto-projects, including Decred can trace their origins to the Bitcointalk forums. 
+Most established crypto-projects, including Decred can trace their origins to the [Bitcointalk forums](https://bitcointalk.org/index.php?topic=1290358.0).
 
 In this example Politeia would evolve Bitcoincointalk’s role as the birthplace of Bitcoin’s offspring, providing a transparent, censorship resistant record of an emerging hereditary line. Stakeholders would have first visibility of the proposed chain and would be able to see first hand how the project could benefit or tax the existing core development team or roadmap and also serve to attract community or developer support. 
 
