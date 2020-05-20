@@ -193,9 +193,9 @@ This path provides an opportunity to both incubate a new project into a speciali
 
 DCR would potentially continue to be held and staked by the child chains and drive use of the underlying infrastructure such as the DEX, helping to provide a stable medium of exchange and connection to the parent codebase. 
 
-These child-chains could experiment with economic designs that offer a defi alternative, a meme factory or maybe even a decentralised World Health Organisation. 
+These child-chains could experiment with economic designs that offer a _defi alternative_, enable a _meme factory_ or maybe even a decentralised _World Health Organisation_. 
 
-Each would chart its own course, build its own community but still be uncensorably connected to the mother. 
+Each would chart its own course, connect to its own community but still benefit and drive use of the core infrastructure, as well as being uncensorably connected to the mother. 
 
 ### Next steps
 
