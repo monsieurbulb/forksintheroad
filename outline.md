@@ -175,11 +175,9 @@ This is neither definitively good, nor bad, it is just objectively defined as th
 
 ### Outcome 3: Friendly Forks  
 
-Should a business as usual approach prevail, then there is a third path that is based upon the open source movement’s tradition of building more specialised projects upon the core. 
-
 Decred is designed to be crypto fork resistant, such that any move to launch another competing variant chain would fail due to the existing PoS coin-holders and PoW miners creating barriers to that approach. 
 
-However an open source code fork is aimed at leveraging and expanding the good that exists in the core codebase would be appealing and in this instance, the community could become a core support system and parent of the new child chain instead of a blocking element.
+However an open source code fork aimed at leveraging and expanding the good that exists in the core codebase would be appealing and in this instance, the community could become a core support system and parent of the new child chain instead of a blocking element.
 
 It is an additive and adaptive model wherein the general principles of the main project – in this case the strength of the community voting, timestamping and funding systems – are built upon to enable an advanced and specialised set of use cases that can appeal to niche communities both within Decred’s existing culture and outside it. 
 Decred as mother 
