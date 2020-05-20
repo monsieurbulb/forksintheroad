@@ -131,17 +131,17 @@ In this view there is an acceptance that business as usual isn’t working and t
 
 There are a number of ways this path could proceed through Politeia, ranging from limited iteration to full scale repositioning depending on evolving feedback from stakeholders.
 
-#### Experiment 1: Community RFPs
+  #### Experiment 1: Community RFPs
 
-Development of ground up community efforts that make use of the RFP product stack. Until now the prevailing wisdom is that      this would be useful in the sort of contractor run-offs that were seen in the market maker and PR proposals. 
+  Development of ground up community efforts that make use of the RFP product stack. Until now the prevailing wisdom is that          this would be useful in the sort of contractor run-offs that were seen in the market maker and PR proposals. 
 
-An alternative approach would be to use the RFP process, alongside a targeted strategy to solicit responses from creative talent from around the world who respond to a clearly articulated brief that seeks to bring alive the project’s core values and connect with emotive subjects such as privacy, democracy, freedom of speech in a human way. 
+  An alternative approach would be to use the RFP process, alongside a targeted strategy to solicit responses from creative talent from around the world who respond to a clearly articulated brief that seeks to bring alive the project’s core values and connect with emotive subjects such as privacy, democracy, freedom of speech in a human way. 
 
-Many of these globally distributed creators would have pre-engaged audiences and fans and so the organic reach would be assured, with creative independence and trusted and transparent funding driving interest.
+  Many of these globally distributed creators would have pre-engaged audiences and fans and so the organic reach would be assured, with creative independence and trusted and transparent funding driving interest.
 
-A good example of this RFP approach was the user generated feature film Life In A Day, where a global community provided the original content that was then cut together by a top tier production team. 
+  A good example of this RFP approach was the user generated feature film Life In A Day, where a global community provided the original content that was then cut together by a top tier production team. 
 
-This idea demonstrates how the technology stack can be the foundation for bringing great stories alive, whilst simultaneously engaging new users, reaching communities organically and differentiating in the market.
+  This idea demonstrates how the technology stack can be the foundation for bringing great stories alive, whilst simultaneously engaging new users, reaching communities organically and differentiating in the market.
 
 #### Experiment 2: Hybridise the culture
 
