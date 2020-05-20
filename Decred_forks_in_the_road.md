@@ -147,6 +147,8 @@ A good example of this RFP approach was the user generated feature film Life In 
 <a href="https://www.youtube.com/watch?v=bT_UmBHMYzg" target="_blank"><img src="https://github.com/monsieurbulb/forksintheroad/blob/master/lifeinaday.jpg" 
 alt="Life In A Day trailer"></a>
 
+Contemporary ideas can evolve this idea - encouraging a wide network of people to contribute content to experiments with neural nets, such as with [Xander Steenbrugge](https://youtu.be/UlTtfejRoB8?t=73)'s work.
+
 This idea demonstrates how the technology stack can be the foundation for bringing great stories alive, whilst simultaneously engaging new users, reaching communities organically and differentiating in the market.
 
 #### Experiment 2: Hybridise the culture
@@ -198,4 +200,4 @@ Each would chart its own course, connect to its own community but still benefit 
 
 ### Next steps
 
-This document exists as both a discussion piece and a framework from which a series of upcoming Politeia proposals will be derived. Further insight from the community and wider ecosystem is welcomed. 
+This document exists as both a discussion piece and framework from which a series of upcoming Politeia proposals will be derived. Further insight from the community and wider ecosystem is welcomed. 
