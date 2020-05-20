@@ -1,3 +1,6 @@
+![Elephant](/elephant.png)
+Format: ![Alt Text](url)
+
 # Decred. Forks in the road
 
 > The parable of the Blind Men and an Elephant is a story of a group of blind men who have never come across an elephant before and who learn and conceptualize what the elephant is like by  touching it. Each blind man feels a different part of the elephant's  body, but only one part, such as the side or the tusk. They then describe the elephant based on their limited experience and their descriptions of the elephant are different from each other. In some versions, they come to suspect that the other person is dishonest and they come to blows…
