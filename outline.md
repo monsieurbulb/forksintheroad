@@ -52,9 +52,11 @@ Existing forums for community discussion include Matrix, Reddit and Telegram, ar
 
 The founding team and community is the greatest strength of the project - without them there would be nothing to build on, however change, renewal and a challenger mindset is key to the evolution of any resilient system.  
 
-The existing project culture currently falls broadly into two camps. 
+The conflicts in the existing project culture can be understood with the following matrix. 
 
-### Camp 1: The conservatives 
+![Decred Culture](https://github.com/monsieurbulb/forksintheroad/blob/master/DCR%20matrix.png)
+
+### The conservatives 
 
 This group is made up predominantly of the founding development team, core protocol engineers and community members who see Decred primarily through a monetary lens and regard the technological achievements and core infrastructure as an end in themselves. 
 
@@ -66,7 +68,7 @@ It’s the, _Sit Back And Wait For The World To Come To Us_ approach.
 
 The macro trends are there for all to see, but it is certainly not the only perspective, and not necessarily the most effective.  
 
-### Camp 2: The progressives 
+### The progressives 
 
 This group believes that Decred has created the core infrastructure foundations to facilitate bold new thinking - with an inclusive, optimistic and innovative culture that can achieve more than just funding crypto-currency technology. 
 
@@ -78,14 +80,19 @@ Depending on which side of the fence you sit, you could look at this as the glas
 
 This is the _Build The Future You Want To See And Adapt It To What Others Need_ approach. 
 
-### Sub groups 
+### The cypher-punks
 
-There is also cause to deconstruct this community culture one step further because within the conservative and progressive camps there is also a divide between a cypherpunk mindset and an investor mindset. 
+Decred’s focus on public benefit technology and on not utilising paid media is in line with the stated ambitions of the cypher-punks, who advocate widespread use of cryptography and privacy-enhancing technologies as a route to social and political change. Bitcoin was a dream of many in this movement and it shouldn’t be surprising that a large part of the core development team and community are motivated by the mission of challenging the establishment, burning down the system and rebuilding the whole system from the ground up. For some this hope is an explicit guiding principle - for others it is just another part of the project’s curious culture. 
 
-Decred’s focus on public benefit technology and on not utilising paid media is in line with the stated ambitions of the cypherpunks, who advocate widespread use of cryptography and privacy-enhancing technologies as a route to social and political change. However much of the recently approved work on Politeia and community output has focused on research and on-chain analysis, seeking to bolster DCR’s credentials as an investment opportunity to traders and institutions.  
+### The investors
+
+Sitting sometimes uncomfortably alongside the cypher-punks are the investors. Again this is a broad church ranging from institutional funds, to day traders, fundamental analysts, populations looking to protect against currency inflation and of course the crypto bros. Decred manages to keep much of the price talk to a minimum and steers clear of conversations that could be seen to be hyping the coin without substance - sometimes to the chagrin of the more financially focused. It is interesting to see that much of the recently approved work on Politeia and community output has focused on research and on-chain analysis, seeking to bolster DCR’s credentials as an investment opportunity to traders and institutions.  
+
+--- 
 
 All four groups are essential to the success of the network, but they each speak very different languages, are motivated to work on very different things and even communicate in different mediums. Many in the community fall into more than one category, some sit right in the middle, whilst others remain absolute in their views. 
-Decred’s core values
+
+## Decred’s core values
 
 Decred’s constitutionally defined focus on building public benefit technologies is a direct response to the unprecedented power of today’s tech giants and as a result the project has decided to forgo traditional digital marketing techniques such as paid media.  
 
@@ -94,8 +101,6 @@ In general this approach sets it in stark contrast with other crypto-currency pr
 For some these self imposed restrictions unnecessarily hamstring the project’s potential to market itself, whilst for others this decision is based on values that are a key part of its DNA. The project continues to pay for promotion at certain events and has used paid media in the past, illustrating a continuing ethical schizophrenia that can confuse messaging. 
 
 Whichever side you are on, the decision to avoid paid media has fundamental impacts on the approaches available to use digital media to further the project’s awareness and path to new capital, whilst also providing creative constraints that necessitate alternative approaches, methodologies and perspectives. 
-
-![Crypto Culture](https://github.com/monsieurbulb/forksintheroad/blob/master/DCR%20matrix.png)
 
 ## With good governance, you can have any vision you want. 
 
