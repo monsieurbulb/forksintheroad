@@ -1,5 +1,5 @@
-![Elephant](/elephant.png)
-Format: ![Alt Text](url)
+![Elephant](https://github.com/monsieurbulb/forksintheroad/blob/master/Elephant.png)
+Format: ![Alt Text](https://github.com/monsieurbulb/forksintheroad/blob/master/Elephant.png)
 
 # Decred. Forks in the road
 
