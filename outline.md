@@ -104,7 +104,7 @@ For some these self imposed restrictions unnecessarily hamstring the project’s
 
 Whichever side you are on, the decision to avoid paid media has fundamental impacts on the approaches available to use digital media to further the project’s awareness and path to new capital, whilst also providing creative constraints that necessitate alternative approaches, methodologies and perspectives. 
 
-## With good governance, you can have any vision you want. 
+## With good governance, you can have any _vision_ you want. 
 
 Creative constraints and limited resources demand innovative approaches and out of the box thinking that can drive organic interest and demands a show not tell approach, by conceiving and creating interesting stuff that is uniquely enabled by the Decred stack.
 
