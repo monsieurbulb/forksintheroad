@@ -97,7 +97,7 @@ For some these self imposed restrictions unnecessarily hamstring the project’s
 
 Whichever side you are on, the decision to avoid paid media has fundamental impacts on the approaches available to use digital media to further the project’s awareness and path to new capital, whilst also providing creative constraints that necessitate alternative approaches, methodologies and perspectives. 
 
-![Crypto Culture](https://github.com/monsieurbulb/forksintheroad/blob/master/dcrmatrix.png)
+![Crypto Culture](https://github.com/monsieurbulb/forksintheroad/blob/master/DCR%20matrix.png)
 
 ## With good governance, you can have any vision you want. 
 
