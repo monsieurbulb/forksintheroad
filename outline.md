@@ -142,7 +142,7 @@ Many of these globally distributed creators would have pre-engaged audiences and
 A good example of this RFP approach was the user generated feature film Life In A Day, where a global community provided the original content that was then cut together by a top tier production team. 
   
 <a href="https://www.youtube.com/watch?v=bT_UmBHMYzg" target="_blank"><img src="https://github.com/monsieurbulb/forksintheroad/blob/master/lifeinaday.jpg" 
-alt="Life In A Day trailer" width="240" height="180" border="10" /></a>
+alt="Life In A Day trailer"></a>
 
 This idea demonstrates how the technology stack can be the foundation for bringing great stories alive, whilst simultaneously engaging new users, reaching communities organically and differentiating in the market.
 
