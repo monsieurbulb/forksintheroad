@@ -1,5 +1,4 @@
 ![Elephant](https://github.com/monsieurbulb/forksintheroad/blob/master/Elephant.png)
-Format: ![Alt Text](https://github.com/monsieurbulb/forksintheroad/blob/master/Elephant.png)
 
 # Decred. Forks in the road
 
@@ -42,7 +41,8 @@ The two key issues are derived from both subjective discussions in the community
 Decred is currently positioned as a superior store of value, so it is intuitive that the more consistent the decline against the market benchmark, the less compelling the positioning becomes to ‘smart money’. While it has been a narrative, that narrative has not yet been robustly backed up by fact. 
 
 Historical boosts to the coin price came with the announcements of Placeholder and Blue Yard’s investments. Both built positions during 2018, with Placeholder’s investment thesis in particular providing a clear and effective slogan for one of the project’s key differentiating features. 
-Screenshot 2020-05-17 at 09.48.05.png
+
+
 
 ## Existing project culture 
 
