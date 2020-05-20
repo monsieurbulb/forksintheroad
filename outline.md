@@ -92,7 +92,7 @@ Sitting sometimes uncomfortably alongside the cypher-punks are the investors. Ag
 
 --- 
 
-All four groups are essential to the success of the network, but they each speak very different languages, are motivated to work on very different things and even communicate in different mediums. Many in the community fall into more than one category, some sit right in the middle, whilst others remain absolute in their views. 
+Balancing all four perspectives is essential to the success of the network, but unsurprisingly finding common ground can be hard, since people are motivated to work on very different areas, judge importance against their own biases and even communicate in different mediums and on different platforms. 
 
 ## Decred’s core values
 
@@ -117,7 +117,8 @@ By debating messier questions around product positioning, purpose and implementa
 ![Bitcoin tree](https://github.com/monsieurbulb/forksintheroad/blob/master/Bitcoin-tree.png)
 
 In the process, this would objectively demonstrate Decred’s claim to be a better Bitcoin and signal its potential as revolutionary organisational architecture for sustainably funded community networks and beyond.   
-Politeia experiments
+
+## Politeia experiments
 
 According to Wikipedia, 
 
