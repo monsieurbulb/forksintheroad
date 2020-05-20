@@ -42,7 +42,7 @@ Decred is currently positioned as a superior store of value, so it is intuitive 
 
 Historical boosts to the coin price came with the announcements of Placeholder and Blue Yard’s investments. Both built positions during 2018, with Placeholder’s investment thesis in particular providing a clear and effective slogan for one of the project’s key differentiating features. 
 
-
+![Elephant](https://github.com/monsieurbulb/forksintheroad/blob/master/Placeholder.png)
 
 ## Existing project culture 
 
