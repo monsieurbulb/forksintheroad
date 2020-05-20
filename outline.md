@@ -6,7 +6,7 @@
 
 ## **Introduction**
 
-Engaging, understading and empowering different perspectives and varying visions is key to building successful, resilient and productive communities over the long term. In the existing tribalistic crypto-currency paradigm it is nearly impossible.
+Engaging, understanding and empowering different perspectives and varying visions is key to building successful, resilient and productive communities over the long term. In the existing tribalistic crypto-currency paradigm it is nearly impossible.
 
 This document has been produced through a long and wide ranging discussion with Decred community members, stakeholders and external teams and aims to address the interests of the founding project team, contractors, miners, stakers, retail and institutional investors, future integration partners, and community members at large. It is also considered through the lens of a prolonged bear market and therefore a more conservative stakeholder outlook. 
 
