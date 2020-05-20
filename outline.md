@@ -83,6 +83,7 @@ This is the _Build The Future You Want To See And Adapt It To What Others Need_ 
 There is also cause to deconstruct this community culture one step further because within the conservative and progressive camps there is also a divide between a cypherpunk mindset and an investor mindset. 
 
 Decred’s focus on public benefit technology and on not utilising paid media is in line with the stated ambitions of the cypherpunks, who advocate widespread use of cryptography and privacy-enhancing technologies as a route to social and political change. However much of the recently approved work on Politeia and community output has focused on research and on-chain analysis, seeking to bolster DCR’s credentials as an investment opportunity to traders and institutions.  
+
 Network v1@2x(29).png
 
 All four groups are essential to the success of the network, but they each speak very different languages, are motivated to work on very different things and even communicate in different mediums. Many in the community fall into more than one category, some sit right in the middle, whilst others remain absolute in their views. 
@@ -95,6 +96,8 @@ In general this approach sets it in stark contrast with other crypto-currency pr
 For some these self imposed restrictions unnecessarily hamstring the project’s potential to market itself, whilst for others this decision is based on values that are a key part of its DNA. The project continues to pay for promotion at certain events and has used paid media in the past, illustrating a continuing ethical schizophrenia that can confuse messaging. 
 
 Whichever side you are on, the decision to avoid paid media has fundamental impacts on the approaches available to use digital media to further the project’s awareness and path to new capital, whilst also providing creative constraints that necessitate alternative approaches, methodologies and perspectives. 
+
+![Crypto Culture](https://github.com/monsieurbulb/forksintheroad/blob/master/dcrmatrix.png)
 
 ## With good governance, you can have any vision you want. 
 
