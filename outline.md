@@ -125,23 +125,13 @@ Currently Politiea’s system is very much seen as a binary outcome, with propos
 
 The following outlines a series of conjectures which serve to illustrate how the art and science of community development might come together with this process to demonstrate the system’s untapped potential. The examples are not intended to be chronological nor exhaustive and depending on feedback may ultimately result in independent or connected strategies. 
 
-### Outcome 1: Business as usual  
-
-The rejection of any submitted proposals that test the existing positioning, or deviate from the already approved contributions around onchain and crypto research, content production and PR would be a strong indication that stakeholders are comfortable with business as usual.  Perhaps certain topics might be debated again in the future, but as a signal it would likely close off certain avenues of exploration in the near term.  
-
-In this example the community culture continues under the stewardship of a trusted founding team and community, with the expectation that external factors such as central bank policy will drive a flight to secure, unforgeable, unseizable store of value assets such as Bitcoin and further to DCR. 
-
-This is a perfectly rational long term narrative and is very much the status quo view - such as a status quo view exists in this rapidly changing space. 
-
-This is neither definitively good, nor bad, it is just objectively defined as the dominant cultural conviction. 
-
-### Outcome 2: Cultural evolution
+### Outcome 1: Cultural evolution
 
 In this view there is an acceptance that business as usual isn’t working and that more progressive approaches and ideas are needed to address the core issues facing the project as detailed at the start of the document. 
 
 There are a number of ways this path could proceed through Politeia, ranging from limited iteration to full scale repositioning depending on evolving feedback from stakeholders.
 
-    ### Experiment 1: Community RFPs
+#### Experiment 1: Community RFPs
 
 Development of ground up community efforts that make use of the RFP product stack. Until now the prevailing wisdom is that      this would be useful in the sort of contractor run-offs that were seen in the market maker and PR proposals. 
 
@@ -153,7 +143,7 @@ A good example of this RFP approach was the user generated feature film Life In 
 
 This idea demonstrates how the technology stack can be the foundation for bringing great stories alive, whilst simultaneously engaging new users, reaching communities organically and differentiating in the market.
 
-    ### Experiment 2: Hybridise the culture
+#### Experiment 2: Hybridise the culture
 
 Much as the hybrid PoW / PoS approach to Decred’s design attempts to balance machine intelligence and human intelligence, so this approach seeks to hybridise the culture of the project, using the existing DAO infrastructure and treasury spending to separate the funding and governance of two key areas.
 
@@ -163,15 +153,23 @@ Much as the hybrid PoW / PoS approach to Decred’s design attempts to balance m
 
 As noted earlier, this is not a platform approach per se, it is instead a way to demonstrate both Decred’s core technology capabilities (self funding, self governing,  timestamping, alt implementations of Politeia) and a division of expertise that acknowledges that the skills needed to connect, build and empower communities are very different to those of building core crypto-currency technology. 
 
-### Experiment 3: Repositioning 
+#### Experiment 3: Repositioning 
 
-This strategy is unlikely to be approved by stakeholders, but it is worthy of discussion if only to debate the pros and cons. In the event that the store of value positioning is not cutting through in the market, then it is worth considering what else Decred might provide foundations for. 
+This strategy is unlikely to be approved by stakeholders, but it is worthy of debate, since there are many alternative views in the project and even Bitcoin’s narrative has changed consistently over its lifecycle. In the event that the store of value positioning is deemed to not be cutting through or that the project has potential to gain mindshare with a different positioning then it is worth considering how else Decred’s design might provide compelling foundations for. 
 
-Which brings us neatly to the final path. 
+### Outcome 2: Business as usual  
+
+The rejection of any submitted proposals that test the existing positioning, or deviate from the already approved contributions around onchain and crypto research, content production and PR would be a strong indication that stakeholders are comfortable with business as usual.  Perhaps certain topics might be debated again in the future, but as a signal it would likely close off certain avenues of exploration in the near term.  
+
+In this example the community culture continues under the stewardship of a trusted founding team and community, with the expectation that external factors such as central bank policy will drive a flight to secure, unforgeable, unseizable store of value assets such as Bitcoin and further to DCR. 
+
+This is a perfectly rational long term narrative and is very much the status quo view - such as a status quo view exists in this rapidly changing space. 
+
+This is neither definitively good, nor bad, it is just objectively defined as the dominant cultural conviction. 
 
 ### Outcome 3: Friendly Forks  
 
-Should a business as usual approach prevail or a cultural evolution not gain community interest, then there is a third path that is based upon the open source movement’s tradition of building more specialised projects upon the core. 
+Should a business as usual approach prevail, then there is a third path that is based upon the open source movement’s tradition of building more specialised projects upon the core. 
 
 Decred is designed to be crypto fork resistant, such that any move to launch another competing variant chain would fail due to the existing PoS coin-holders and PoW miners creating barriers to that approach. 
 
