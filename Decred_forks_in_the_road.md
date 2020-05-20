@@ -147,9 +147,9 @@ A good example of this RFP approach was the user generated feature film Life In 
 <a href="https://www.youtube.com/watch?v=bT_UmBHMYzg" target="_blank"><img src="https://github.com/monsieurbulb/forksintheroad/blob/master/lifeinaday.jpg" 
 alt="Life In A Day trailer"></a>
 
-Contemporary ideas can evolve this idea - encouraging a wide network of people to contribute content to experiments with neural nets, such as with [Xander Steenbrugge](https://youtu.be/UlTtfejRoB8?t=73)'s work.
+Contemporary ideas can evolve this idea - encouraging a wide network of people to contribute content to experiments with data sets and neural nets, such as with [Xander Steenbrugge](https://www.youtube.com/watch?v=3TLEfOMBbMw)'s work.
 
-This idea demonstrates how the technology stack can be the foundation for bringing great stories alive, whilst simultaneously engaging new users, reaching communities organically and differentiating in the market.
+This should hopefully demonstrate how the technology stack can be the foundation for bringing great stories alive and demonstrating the power of the blockchain system for crediting and protecting contributions, whilst simultaneously engaging new users, reaching communities organically and differentiating in crypto market and more broadly.
 
 #### Experiment 2: Hybridise the culture
 
