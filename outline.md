@@ -42,7 +42,7 @@ Decred is currently positioned as a superior store of value, so it is intuitive 
 
 Historical boosts to the coin price came with the announcements of Placeholder and Blue Yard’s investments. Both built positions during 2018, with Placeholder’s investment thesis in particular providing a clear and effective slogan for one of the project’s key differentiating features. 
 
-![Elephant](https://github.com/monsieurbulb/forksintheroad/blob/master/Placeholder.png)
+![Placeholder](https://github.com/monsieurbulb/forksintheroad/blob/master/Placeholder.png)
 
 ## Existing project culture 
 
@@ -84,8 +84,6 @@ There is also cause to deconstruct this community culture one step further becau
 
 Decred’s focus on public benefit technology and on not utilising paid media is in line with the stated ambitions of the cypherpunks, who advocate widespread use of cryptography and privacy-enhancing technologies as a route to social and political change. However much of the recently approved work on Politeia and community output has focused on research and on-chain analysis, seeking to bolster DCR’s credentials as an investment opportunity to traders and institutions.  
 
-Network v1@2x(29).png
-
 All four groups are essential to the success of the network, but they each speak very different languages, are motivated to work on very different things and even communicate in different mediums. Many in the community fall into more than one category, some sit right in the middle, whilst others remain absolute in their views. 
 Decred’s core values
 
@@ -108,7 +106,8 @@ The project team created Politeia as a product that could become machinery of th
 Although it has demonstrated its capacity to debate, approve and reject the funding of research projects, content production and marketing, it has not yet been tested as a system to question more nuanced aspects of the project, its community culture and the potential paths forward. 
 
 By debating messier questions around product positioning, purpose and implementations, the project can dog-food its own organisational technology, testing the capacities of the community and its competing cultures to govern and potentially evolve different visions, without splitting the core project into tribal factions, diluting network valuations and confusing newcomers as was seen with Bitcoin’s various warring communities. 
-Bitcoin-tree.png
+
+![Bitcoin tree](https://github.com/monsieurbulb/forksintheroad/blob/master/Bitcoin-tree.png)
 
 In the process, this would objectively demonstrate Decred’s claim to be a better Bitcoin and signal its potential as revolutionary organisational architecture for sustainably funded community networks and beyond.   
 Politeia experiments
@@ -120,7 +119,8 @@ According to Wikipedia,
 Currently Politiea’s system is very much seen as a binary outcome, with proposals focused on gaining a yes vote from stakeholders and rejected proposals signalling the end of a team or individual’s interest. So far no proposal has considered rejection to be a useful outcome in itself, nor considered that there are ways to use feedback to inform and evolve a series of connected proposals - an approach which feels more congruent with the machinery of the state philosophy.   
 
 The following outlines a series of conjectures which serve to illustrate how the art and science of community development might come together with this process to demonstrate the system’s untapped potential. The examples are not intended to be chronological nor exhaustive and depending on feedback may ultimately result in independent or connected strategies. 
-Outcome 1: Business as usual  
+
+### Outcome 1: Business as usual  
 
 The rejection of any submitted proposals that test the existing positioning, or deviate from the already approved contributions around onchain and crypto research, content production and PR would be a strong indication that stakeholders are comfortable with business as usual.  Perhaps certain topics might be debated again in the future, but as a signal it would likely close off certain avenues of exploration in the near term.  
 
@@ -129,7 +129,8 @@ In this example the community culture continues under the stewardship of a trust
 This is a perfectly rational long term narrative and is very much the status quo view - such as a status quo view exists in this rapidly changing space. 
 
 This is neither definitively good, nor bad, it is just objectively defined as the dominant cultural conviction. 
-Outcome 2: Cultural evolution
+
+### Outcome 2: Cultural evolution
 
 In this view there is an acceptance that business as usual isn’t working and that more progressive approaches and ideas are needed to address the core issues facing the project as detailed at the start of the document. 
 
@@ -177,7 +178,6 @@ Decred as mother
 Most established crypto-projects, including Decred can trace their origins to the Bitcointalk forums. 
 
 In this example Politeia would evolve Bitcoincointalk’s role as the birthplace of Bitcoin’s offspring, providing a transparent, censorship resistant record of an emerging hereditary line. Stakeholders would have first visibility of the proposed chain and would be able to see first hand how the project could benefit or tax the existing core development team or roadmap and also serve to attract community or developer support. 
-Network v1@2x(31).png
 
 This path provides an opportunity to both incubate a new project into a specialised entity with its own community focus, economic policy, treasury funding model, hashing algorithm, launch strategy and the ability to keep connections to the baseline community and monetary system whilst expanding the network effects of the whole project family. 
 
