@@ -187,6 +187,8 @@ Most established crypto-projects, including Decred can trace their origins to th
 
 In this example Politeia would evolve Bitcoincointalk’s role as the birthplace of Bitcoin’s offspring, providing a transparent, censorship resistant record of an emerging hereditary line. Stakeholders would have first visibility of the proposed chain and would be able to see first hand how the project could benefit or tax the existing core development team or roadmap and also serve to attract community or developer support. 
 
+![Decred family tree](https://github.com/monsieurbulb/forksintheroad/blob/master/Decred%20family.png)
+
 This path provides an opportunity to both incubate a new project into a specialised entity with its own community focus, economic policy, treasury funding model, hashing algorithm, launch strategy and the ability to keep connections to the baseline community and monetary system whilst expanding the network effects of the whole project family. 
 
 DCR would potentially continue to be held and staked by the child chains and drive use of the underlying infrastructure such as the DEX, helping to provide a stable medium of exchange and connection to the parent codebase. 
