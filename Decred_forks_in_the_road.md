@@ -84,7 +84,7 @@ This is the _Build The Future You Want To See And Adapt It To What Others Need_ 
 
 ### The cypher-punks
 
-Decred’s focus on public benefit technology and on not utilising paid media is in line with the stated ambitions of the cypher-punks, who advocate widespread use of cryptography and privacy-enhancing technologies as a route to social and political change. Bitcoin was a dream of many in this movement and it shouldn’t be surprising that a large part of the core development team and community are motivated by the mission of challenging the establishment, burning down the system and rebuilding the whole system from the ground up. For some this hope is an explicit guiding principle - for others it is just another part of the project’s curious culture. 
+Decred’s focus on public benefit technology and on not utilising paid media is in line with the stated ambitions of the cypher-punks, who advocate widespread use of cryptography and privacy-enhancing technologies as a route to social and political change. Bitcoin was a dream of many in this movement and it shouldn’t be surprising that a large part of the core development team and community are motivated by the mission of challenging the establishment, burning down the system and rebuilding from the ground up. For some this hope is an explicit guiding principle - for others it is just another part of the project’s curious culture. 
 
 ### The investors
 
