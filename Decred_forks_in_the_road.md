@@ -216,7 +216,7 @@ Our partners have co-founded or led:
 - Digital product and engineering studio [Siberia](https://siberia.io/)
 - Public service broadcaster [Channel 4](https://www.channel4.com/corporate/about-4/who-we-are/what-is-channel-4?intcmp=footer_4corporate)
 - Publisher [The Guardian](https://www.theguardian.com/the-scott-trust/2015/jul/26/the-scott-trust)
-- The [Virgin Unite] (https://www.virgin.com/unite/) foundation 
+- The [Virgin Unite](https://www.virgin.com/unite/) foundation 
 - One of the world’s largest mining operations — mining Litecoin and Decred, alongside market-making activities. 
 
 Since 2015 we have been researching and investing in a range of crypto projects that have focused on addressing three key areas — governance, sustainable funding and the public good.
