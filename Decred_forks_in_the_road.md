@@ -214,7 +214,7 @@ Our partners have co-founded or led:
 - Global media brand [Copa90](https://copa90.com)
 - Live music company [Boiler Room](https://boilerroom.tv/)
 - Digital product and engineering studio [Siberia](https://siberia.io/)
-- Public service broadcaster[Channel 4](https://www.channel4.com/corporate/about-4/who-we-are/what-is-channel-4?intcmp=footer_4corporate)
+- Public service broadcaster [Channel 4](https://www.channel4.com/corporate/about-4/who-we-are/what-is-channel-4?intcmp=footer_4corporate)
 - Publisher [The Guardian](https://www.theguardian.com/the-scott-trust/2015/jul/26/the-scott-trust)
 - The [Virgin Unite] (https://www.virgin.com/unite/) foundation 
 - One of the world’s largest mining operations — mining Litecoin and Decred, alongside market-making activities. 
