@@ -50,7 +50,7 @@ Historical boosts to the coin price came with the announcements of Placeholder a
 
 Decred has best in class security, sustainability and adaptability but the existing culture acts as a barrier to more mainstream awareness and adoption and to being open minded about alternative use cases or implementations that might make use of the established infrastructure. 
 
-Existing forums for community discussion include Matrix, Reddit and Telegram, are not optimised for nuanced and cohesive discussions that expand the addressable conversation. In addition, the evolution of token based decentralised community networks makes the task of coordinating different groups in different geographies, demographics and cultures challenging.  
+Existing forums for community discussion including Matrix, Reddit and Telegram, are not optimised for nuanced and cohesive discussions that expand the addressable conversation. In addition, the evolution of token based decentralised community networks makes the task of coordinating different groups in different geographies, demographics and cultures challenging.  
 
 The founding team and community is the greatest strength of the project - without them there would be nothing to build on, however change, renewal and a challenger mindset is key to the evolution of any resilient system.  
 
@@ -96,7 +96,7 @@ Balancing all four perspectives is essential to the success of the network, but 
 
 ## Decred’s core values
 
-Decred’s constitutionally defined focus on building public benefit technologies is a direct response to the unprecedented power of today’s tech giants and as a result the project has decided to forgo traditional digital marketing techniques such as paid media.  
+Decred’s [constitutionally defined](https://docs.decred.org/governance/decred-constitution/) focus on building public benefit technologies is a direct response to the unprecedented power of today’s tech giants and as a result the project has decided to forgo traditional digital marketing techniques such as paid media.  
 
 In general this approach sets it in stark contrast with other crypto-currency projects that rely on more traditional marketing initiatives, partnership announcements and mainstream press and PR, all of which help hype the coin price and enables token rich projects to implement a buy vs build approach to community and product development. 
 
@@ -106,11 +106,11 @@ Whichever side you are on, the decision to avoid paid media has fundamental impa
 
 ## With good governance, you can have any _vision_ you want. 
 
-Creative constraints and limited resources demand innovative approaches and out of the box thinking that can drive organic interest and demands a show not tell approach, by conceiving and creating interesting stuff that is uniquely enabled by the Decred stack.
+Creative constraints and limited resources demand innovative approaches and out of the box thinking that can drive organic interest and demands a _show_ not _tell_ approach, by conceiving and creating interesting stuff that is uniquely enabled by the Decred stack.
 
 The project team created Politeia as a product that could become [machinery of the state](https://youtu.be/UlTtfejRoB8?t=73) - a permissionless governance system that provided a more accountable and transparent mechanism for direct democracy than existing systems. There have been continuing discussions about Politeia’s value beyond the core project - with the aim to see established organisations and even governments, adopt the technology. However the issue is once again a lack of awareness of the system’s capabilities - including the recently finalised [Request For Proposal (RFP)](https://youtu.be/UlTtfejRoB8?t=73) module.
 
-Although it has demonstrated its capacity to debate, approve and reject the funding of research projects, content production and marketing, it has not yet been tested as a system to question more nuanced aspects of the project, its community culture and the potential paths forward. 
+Although it has demonstrated its capacity to debate, approve and reject the funding of research projects, content production and marketing, it has not yet been tested as a system to question more nuanced aspects of the project.
 
 By debating messier questions around product positioning, purpose and implementations, the project can dog-food its own organisational technology, testing the capacities of the community and its competing cultures to govern and potentially evolve different visions, without splitting the core project into tribal factions, diluting network valuations and confusing newcomers as was seen with Bitcoin’s various warring communities. 
 
@@ -126,7 +126,7 @@ According to Wikipedia,
 
 Currently Politiea’s system is very much seen as a binary outcome, with proposals focused on gaining a yes vote from stakeholders and rejected proposals signalling the end of a team or individual’s interest. So far no proposal has considered rejection to be a useful outcome in itself, nor considered that there are ways to use feedback to inform and evolve a series of connected proposals - an approach which feels more congruent with the machinery of the state philosophy.   
 
-The following outlines a series of conjectures which serve to illustrate how the art and science of community development might come together with this process to demonstrate the system’s untapped potential. The examples are not intended to be chronological nor exhaustive and depending on feedback may ultimately result in independent or connected strategies. 
+The following outlines a series of conjectures which serve to illustrate how the _art_ and _science_ of community development might come together with this process to demonstrate the system’s untapped potential. The examples are not intended to be chronological nor exhaustive and depending on feedback may ultimately result in independent or connected strategies. 
 
 ### Outcome 1: Cultural evolution
 
