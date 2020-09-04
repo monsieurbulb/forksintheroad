@@ -208,17 +208,6 @@ This document exists as both a discussion piece and framework from which a serie
 
 Our experience sits at the intersection of digital storytelling, community development and emerging technology, with a core focus on projects that benefit the public interest. 
 
-Our partners have co-founded or led:
-
-- Youth music brand [Four To The Floor](https://www.theguardian.com/music/2016/sep/23/four-to-the-floor-music-tv-future-lo-fi-channel-4-post-millennial-generation-z)
-- Global media brand [Copa90](https://copa90.com)
-- Live music company [Boiler Room](https://boilerroom.tv/)
-- Digital product and engineering studio [Siberia](https://siberia.io/)
-- Public service broadcaster [Channel 4](https://www.channel4.com/corporate/about-4/who-we-are/what-is-channel-4?intcmp=footer_4corporate)
-- Publisher [The Guardian](https://www.theguardian.com/the-scott-trust/2015/jul/26/the-scott-trust)
-- The [Virgin Unite](https://www.virgin.com/unite/) foundation 
-- One of the world’s largest mining operations — mining Litecoin and Decred, alongside market-making activities. 
-
 Since 2015 we have been researching and investing in a range of crypto projects that have focused on addressing three key areas — governance, sustainable funding and the public good.
  
 Decent began contributing to the Decred community in late 2019. 
